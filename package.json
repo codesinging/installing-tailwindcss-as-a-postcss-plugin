@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "postcss src/app.css -o dist/app.css "
+  },
+  "devDependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^8.2.1",
+    "postcss-import": "^12",
+    "tailwindcss": "^2.0.1"
+  }
+}
